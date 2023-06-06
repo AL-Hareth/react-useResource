@@ -1,0 +1,5 @@
+body {
+  background: linear-gradient(90deg, rgba(24, 182, 246, 0.3) 0%, rgba(172, 127, 244, 0.3) 100%);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  padding: 10px 0px;
+}
